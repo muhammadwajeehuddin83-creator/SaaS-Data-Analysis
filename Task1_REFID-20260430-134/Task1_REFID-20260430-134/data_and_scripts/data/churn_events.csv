@@ -1,0 +1,2 @@
+churn_event_id,account_id,churn_date,reason_code,refund_amount_usd,preceding_upgrade_flag,preceding_downgrade_flag,is_reactivation,feedback_text
+CH-99,ACC101,2024-04-10,pricing,0.0,False,True,False,Subscription too expensive for current needs.

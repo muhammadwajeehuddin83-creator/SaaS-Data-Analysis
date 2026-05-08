@@ -1,0 +1,501 @@
+account_id,account_name,industry,country,signup_date,referral_source,plan_tier,seats,is_trial,churn_flag
+ACC1000,Payne Ltd,SaaS,PH,2026-04-14,partner,Enterprise,37,True,False
+ACC1001,Smith-Fuller,FinTech,BR,2025-01-29,organic,Pro,12,False,True
+ACC1002,"Lawson, Lewis and Rocha",SaaS,HU,2025-03-21,event,Pro,17,True,False
+ACC1003,"Melendez, Turner and Carter",EdTech,HN,2025-05-02,organic,Basic,13,False,True
+ACC1004,"Rodriguez, Clark and Cannon",FinTech,MW,2025-03-25,partner,Enterprise,28,False,True
+ACC1005,Morrison Ltd,FinTech,IS,2024-06-25,organic,Basic,16,False,True
+ACC1006,Woodard-Gibson,FinTech,NO,2026-03-27,organic,Basic,28,False,False
+ACC1007,Jimenez-Whitney,EdTech,MY,2026-04-17,event,Enterprise,33,True,True
+ACC1008,Hardin-Garrison,FinTech,TL,2025-02-03,event,Enterprise,28,True,False
+ACC1009,"Schneider, Gordon and Black",EdTech,SI,2024-08-29,organic,Pro,1,False,True
+ACC1010,"Gamble, Schwartz and Figueroa",SaaS,NG,2025-11-20,organic,Enterprise,8,True,False
+ACC1011,"Mays, Reyes and Campbell",SaaS,SI,2024-07-23,ads,Pro,5,True,False
+ACC1012,Ortiz Inc,EdTech,NG,2025-02-23,event,Enterprise,10,False,True
+ACC1013,"Deleon, Jenkins and Carlson",EdTech,IL,2025-10-22,event,Basic,45,False,True
+ACC1014,"Jackson, Meadows and Miles",FinTech,BR,2025-09-30,organic,Basic,37,True,False
+ACC1015,Roberson Group,DevTools,LI,2025-09-01,partner,Basic,37,True,False
+ACC1016,Mccoy-Collins,SaaS,GB,2026-03-22,event,Enterprise,22,True,False
+ACC1017,Roberts-Scott,SaaS,IE,2024-05-22,organic,Basic,45,False,True
+ACC1018,Mendez LLC,FinTech,LC,2025-11-27,ads,Basic,22,True,False
+ACC1019,"Cohen, Oneill and Smith",DevTools,JP,2026-01-31,event,Enterprise,18,True,True
+ACC1020,Cox-Hodges,SaaS,DM,2024-12-05,organic,Pro,6,False,False
+ACC1021,Leonard Inc,EdTech,MY,2024-06-12,event,Enterprise,3,True,True
+ACC1022,"Robinson, Hood and Nguyen",SaaS,PK,2025-11-10,organic,Basic,10,True,True
+ACC1023,Bennett-Griffin,EdTech,JP,2025-09-21,partner,Basic,15,True,True
+ACC1024,Anderson-Robinson,DevTools,TT,2026-02-28,event,Basic,33,True,True
+ACC1025,Mercado-Terry,SaaS,SM,2025-05-12,organic,Basic,11,False,False
+ACC1026,Frye LLC,DevTools,IE,2025-02-25,ads,Enterprise,33,True,False
+ACC1027,Miller and Sons,DevTools,TZ,2026-01-30,organic,Basic,25,True,False
+ACC1028,Hunt-Ramos,EdTech,PS,2026-04-15,event,Pro,21,True,True
+ACC1029,Dickson-Ramsey,EdTech,TG,2025-02-19,organic,Pro,35,True,True
+ACC1030,"Mccoy, Cardenas and Morris",SaaS,NL,2025-11-23,partner,Pro,15,False,True
+ACC1031,Nguyen Ltd,SaaS,SN,2026-03-10,event,Pro,5,False,True
+ACC1032,Bush PLC,FinTech,AO,2024-11-15,partner,Enterprise,38,True,False
+ACC1033,Martinez-Deleon,SaaS,AE,2026-01-29,ads,Pro,12,False,True
+ACC1034,Huff PLC,SaaS,SA,2024-11-24,ads,Basic,38,True,True
+ACC1035,"Adams, Daniels and Lindsey",DevTools,UZ,2026-01-02,ads,Enterprise,22,True,False
+ACC1036,"Hill, Bautista and Martinez",EdTech,BY,2024-09-03,ads,Enterprise,31,True,True
+ACC1037,Wu PLC,DevTools,HT,2025-08-22,organic,Pro,8,True,True
+ACC1038,Griffin PLC,DevTools,SY,2025-08-01,organic,Enterprise,39,True,True
+ACC1039,Neal-Becker,FinTech,CF,2025-04-02,organic,Basic,35,False,True
+ACC1040,"Trujillo, Hickman and Moses",DevTools,HN,2024-12-03,ads,Pro,10,False,False
+ACC1041,Tran and Sons,DevTools,RU,2024-07-31,event,Basic,2,False,True
+ACC1042,Hunt Group,DevTools,TT,2024-09-30,partner,Enterprise,32,True,True
+ACC1043,Flores and Sons,SaaS,CA,2024-07-06,event,Enterprise,22,True,False
+ACC1044,Greene PLC,DevTools,CD,2025-10-10,partner,Basic,44,True,True
+ACC1045,Hill Group,FinTech,LC,2025-04-14,ads,Enterprise,11,False,True
+ACC1046,Fuentes-Wright,DevTools,TZ,2024-06-14,event,Basic,12,True,True
+ACC1047,Burns LLC,DevTools,MC,2024-12-11,organic,Pro,5,True,True
+ACC1048,"Chambers, Smith and King",EdTech,TJ,2026-04-16,partner,Enterprise,18,False,True
+ACC1049,Madden-Sanchez,FinTech,PE,2025-03-14,ads,Basic,41,True,False
+ACC1050,Payne-Hernandez,FinTech,BR,2024-12-14,event,Basic,10,False,False
+ACC1051,Bailey Ltd,SaaS,TJ,2025-11-28,partner,Pro,16,False,True
+ACC1052,"Henderson, Hill and Murphy",SaaS,MN,2024-07-03,organic,Basic,21,True,True
+ACC1053,Powell-Petersen,FinTech,JM,2025-05-08,ads,Enterprise,35,False,False
+ACC1054,Mitchell-Wallace,EdTech,VA,2025-12-26,organic,Pro,12,False,True
+ACC1055,"Stewart, Wright and Wilkins",FinTech,MW,2025-07-28,organic,Pro,37,False,False
+ACC1056,Hahn-Bailey,DevTools,JM,2024-05-11,organic,Enterprise,31,True,True
+ACC1057,"Serrano, Stafford and Mendoza",FinTech,ID,2025-04-04,ads,Pro,12,False,False
+ACC1058,"Williamson, Moore and King",EdTech,RO,2024-06-23,organic,Basic,5,False,True
+ACC1059,Harris Ltd,DevTools,PA,2025-08-21,partner,Enterprise,50,False,False
+ACC1060,Mcpherson and Sons,SaaS,ID,2024-10-07,organic,Enterprise,26,False,True
+ACC1061,"Bishop, Rowe and Peterson",SaaS,SB,2026-04-05,organic,Pro,35,True,False
+ACC1062,Peterson-Delacruz,EdTech,PY,2025-10-21,event,Basic,41,False,True
+ACC1063,"Taylor, Stone and Irwin",DevTools,ZM,2025-06-07,partner,Basic,7,False,False
+ACC1064,Cook-Wood,EdTech,NI,2025-12-05,organic,Enterprise,30,True,False
+ACC1065,Powell Ltd,SaaS,CN,2024-06-15,partner,Basic,49,True,False
+ACC1066,Castillo-Hanson,FinTech,SM,2024-05-26,ads,Basic,18,False,True
+ACC1067,Sanchez Ltd,EdTech,RW,2025-07-22,partner,Basic,49,False,True
+ACC1068,Porter LLC,SaaS,SL,2025-07-25,organic,Basic,19,True,True
+ACC1069,"Kaufman, Smith and Smith",DevTools,LI,2024-05-14,organic,Basic,41,False,False
+ACC1070,Atkinson-Simpson,EdTech,BA,2024-08-03,organic,Basic,28,True,False
+ACC1071,Massey-Lucero,DevTools,PA,2026-03-13,ads,Enterprise,8,False,False
+ACC1072,Lopez Inc,FinTech,CV,2026-01-02,organic,Enterprise,37,True,True
+ACC1073,"Foley, Sanders and Gonzalez",FinTech,LS,2025-04-29,ads,Enterprise,11,True,False
+ACC1074,Martinez-Nelson,EdTech,ID,2024-06-29,partner,Basic,15,False,False
+ACC1075,Wilson PLC,FinTech,PT,2024-06-05,organic,Basic,23,False,False
+ACC1076,"Graham, Greene and Wells",DevTools,GH,2024-10-19,partner,Pro,40,False,True
+ACC1077,"Smith, Herrera and Adams",FinTech,NL,2025-02-28,ads,Pro,32,False,False
+ACC1078,Riley LLC,EdTech,AO,2025-03-24,ads,Pro,32,True,True
+ACC1079,"Williams, Burke and Harrison",DevTools,AT,2024-12-01,organic,Pro,1,False,True
+ACC1080,Bailey PLC,EdTech,MD,2024-08-17,organic,Basic,41,False,True
+ACC1081,Grant-Schneider,EdTech,SC,2025-05-27,partner,Basic,38,False,False
+ACC1082,"Williams, Reyes and Thompson",DevTools,ES,2024-08-18,partner,Enterprise,28,False,False
+ACC1083,Boone and Sons,SaaS,WS,2025-06-08,organic,Basic,13,True,False
+ACC1084,Adams LLC,DevTools,TL,2024-07-29,partner,Basic,17,False,False
+ACC1085,"Bullock, Guzman and Patel",FinTech,LT,2025-08-12,organic,Enterprise,17,True,True
+ACC1086,Thomas-Taylor,EdTech,LB,2024-09-15,ads,Pro,17,False,False
+ACC1087,Mccoy PLC,FinTech,HT,2025-11-12,partner,Basic,29,False,True
+ACC1088,"Walker, Neal and Burns",FinTech,BA,2025-09-12,partner,Pro,37,False,True
+ACC1089,"Carlson, Dickson and Barker",DevTools,TG,2025-04-23,event,Basic,1,False,False
+ACC1090,Meyer Inc,EdTech,ZW,2024-06-02,partner,Basic,31,True,False
+ACC1091,Harris-Hines,FinTech,IL,2025-10-06,event,Basic,21,True,False
+ACC1092,Ferguson-Acosta,EdTech,OM,2026-01-20,partner,Enterprise,19,False,True
+ACC1093,"Abbott, Edwards and West",FinTech,VU,2024-06-15,organic,Basic,21,False,True
+ACC1094,Copeland-Hood,FinTech,PE,2025-05-15,ads,Enterprise,20,False,True
+ACC1095,"Tran, Rodriguez and Carpenter",FinTech,MZ,2026-02-18,ads,Enterprise,40,False,True
+ACC1096,"Bradford, Graham and Barber",EdTech,SV,2025-08-30,event,Basic,49,False,False
+ACC1097,Alexander-Murphy,EdTech,CG,2024-12-18,partner,Pro,29,True,False
+ACC1098,Morales PLC,DevTools,PA,2024-10-31,ads,Pro,9,False,False
+ACC1099,"Cain, Kent and Santos",DevTools,AL,2024-08-12,partner,Enterprise,41,True,True
+ACC1100,Hanson Group,FinTech,QA,2025-09-25,ads,Pro,21,False,False
+ACC1101,Rodriguez-Becker,SaaS,NI,2024-10-13,organic,Basic,10,True,False
+ACC1102,Holt-Davis,DevTools,TZ,2025-03-19,partner,Pro,1,False,True
+ACC1103,Wilson-Peterson,SaaS,MA,2026-02-16,partner,Basic,33,False,False
+ACC1104,Davis-Gallagher,FinTech,SB,2025-06-04,ads,Pro,37,True,False
+ACC1105,Anderson Group,FinTech,AU,2026-04-15,partner,Enterprise,15,False,False
+ACC1106,King-Chase,EdTech,YE,2025-10-31,partner,Enterprise,37,True,False
+ACC1107,"George, Nichols and Silva",EdTech,AL,2026-03-01,ads,Basic,3,True,True
+ACC1108,Evans-Donaldson,EdTech,AR,2024-09-06,partner,Enterprise,26,True,False
+ACC1109,Martinez-Hatfield,FinTech,CU,2024-06-16,ads,Enterprise,15,True,True
+ACC1110,Cook-Torres,EdTech,SV,2026-03-24,event,Enterprise,22,True,True
+ACC1111,Williams-Durham,EdTech,PW,2025-06-24,event,Basic,24,False,True
+ACC1112,Rios-Gonzalez,SaaS,AL,2025-10-07,partner,Enterprise,24,False,True
+ACC1113,Klein Group,EdTech,PS,2024-11-18,partner,Basic,2,False,True
+ACC1114,Castro Group,FinTech,LS,2025-10-17,event,Enterprise,32,True,True
+ACC1115,Curtis LLC,FinTech,IE,2025-08-29,partner,Pro,50,True,False
+ACC1116,Barnes-Martinez,FinTech,MR,2025-05-31,event,Pro,10,True,False
+ACC1117,Mcpherson-Baker,FinTech,MG,2024-07-01,partner,Pro,11,False,True
+ACC1118,Mendoza Inc,SaaS,TG,2024-11-27,partner,Pro,9,False,True
+ACC1119,White Ltd,DevTools,VA,2024-06-01,event,Pro,24,True,False
+ACC1120,Roth-Ramsey,FinTech,ZM,2025-06-07,organic,Pro,29,False,False
+ACC1121,Mcmillan-Johnson,EdTech,TL,2024-05-19,organic,Enterprise,12,False,False
+ACC1122,Alexander Inc,FinTech,CM,2024-10-16,organic,Pro,12,True,False
+ACC1123,Erickson-Anderson,EdTech,SL,2025-08-30,organic,Pro,26,False,False
+ACC1124,"Moreno, Burns and Molina",EdTech,GD,2024-07-16,event,Basic,18,True,True
+ACC1125,Webb-Hayes,SaaS,GN,2026-01-01,ads,Basic,28,True,True
+ACC1126,"Johnson, Smith and Lee",EdTech,ST,2025-11-20,ads,Enterprise,8,False,True
+ACC1127,Taylor Ltd,DevTools,BG,2024-08-25,ads,Pro,7,False,True
+ACC1128,Lee-Miller,FinTech,LR,2025-01-29,partner,Pro,42,False,True
+ACC1129,Arias-Rivera,DevTools,KP,2026-01-13,ads,Basic,5,True,False
+ACC1130,Ryan-Howell,DevTools,JM,2024-10-07,ads,Enterprise,12,False,True
+ACC1131,"Ross, Lopez and Franco",DevTools,ER,2024-06-18,ads,Basic,10,True,True
+ACC1132,Medina Inc,EdTech,BS,2026-03-01,partner,Basic,6,False,False
+ACC1133,Scott LLC,EdTech,VC,2024-07-18,event,Enterprise,45,False,True
+ACC1134,Bell PLC,FinTech,SR,2025-07-19,event,Pro,43,False,True
+ACC1135,Melendez-Davis,EdTech,MY,2026-02-27,ads,Pro,15,True,False
+ACC1136,"White, Riley and Caldwell",SaaS,MT,2024-05-10,partner,Pro,29,True,True
+ACC1137,Brown-Huffman,EdTech,DM,2024-05-13,event,Pro,31,True,True
+ACC1138,Walker-Krueger,SaaS,PW,2024-06-23,ads,Enterprise,40,True,True
+ACC1139,Garcia-Richardson,FinTech,LU,2026-03-04,ads,Enterprise,49,False,True
+ACC1140,Hubbard Group,FinTech,HT,2024-07-18,ads,Enterprise,20,False,True
+ACC1141,Martin LLC,EdTech,AR,2025-09-02,partner,Basic,33,True,False
+ACC1142,Miller-Morales,SaaS,TW,2025-03-18,ads,Enterprise,48,False,False
+ACC1143,Ellis-Brown,FinTech,CO,2024-11-23,ads,Enterprise,16,False,True
+ACC1144,Lewis Ltd,FinTech,PT,2025-08-09,organic,Pro,18,True,True
+ACC1145,Gilbert PLC,SaaS,MZ,2025-05-29,event,Enterprise,13,False,True
+ACC1146,Jones LLC,FinTech,GA,2024-09-29,ads,Enterprise,18,False,False
+ACC1147,Nichols-Brown,SaaS,PH,2024-10-29,ads,Enterprise,15,False,True
+ACC1148,Walker-Berg,EdTech,DE,2024-07-16,partner,Enterprise,18,False,True
+ACC1149,"Romero, Gomez and Patrick",DevTools,ES,2025-06-12,event,Enterprise,10,True,True
+ACC1150,"Hernandez, Perez and Wilcox",DevTools,BW,2025-09-23,event,Pro,48,False,True
+ACC1151,Cook Group,EdTech,GH,2024-06-18,partner,Enterprise,13,False,True
+ACC1152,Carter-Huang,SaaS,MM,2025-05-26,organic,Basic,41,False,False
+ACC1153,Garza Ltd,FinTech,NP,2024-11-10,organic,Pro,28,False,True
+ACC1154,"Snyder, Cohen and King",DevTools,LR,2025-11-28,ads,Enterprise,6,True,False
+ACC1155,Reed-Sparks,DevTools,NG,2024-05-16,partner,Pro,28,False,True
+ACC1156,Fischer LLC,DevTools,TZ,2024-07-07,partner,Pro,20,True,True
+ACC1157,"Fernandez, Marsh and Ruiz",EdTech,SA,2025-11-02,event,Pro,30,False,True
+ACC1158,Fritz-Sosa,SaaS,PH,2026-02-02,event,Enterprise,29,True,False
+ACC1159,"Lawson, Goodman and Davenport",SaaS,LU,2025-12-18,ads,Enterprise,23,False,False
+ACC1160,Ramos Ltd,EdTech,IS,2025-07-17,ads,Basic,21,False,True
+ACC1161,"Hubbard, Moody and Joyce",EdTech,IN,2025-09-04,partner,Enterprise,38,True,True
+ACC1162,Ramsey-Jimenez,EdTech,OM,2026-04-17,ads,Enterprise,46,False,False
+ACC1163,Jenkins Inc,FinTech,ZW,2025-11-07,organic,Basic,10,True,False
+ACC1164,Davis-Barrera,SaaS,TL,2025-03-15,organic,Pro,50,True,False
+ACC1165,Morales Group,SaaS,NO,2026-02-19,event,Basic,50,True,True
+ACC1166,Miller Ltd,EdTech,UY,2024-07-20,organic,Basic,36,False,False
+ACC1167,Fox-Martinez,DevTools,DM,2025-02-28,ads,Pro,25,True,True
+ACC1168,Kim-Flowers,DevTools,AE,2025-08-20,partner,Basic,27,False,True
+ACC1169,Lee-Shaw,SaaS,MG,2024-08-23,partner,Basic,41,False,True
+ACC1170,Castillo-Braun,DevTools,IR,2025-02-15,event,Enterprise,27,False,False
+ACC1171,Rowe and Sons,EdTech,PT,2024-10-05,event,Basic,39,True,True
+ACC1172,"Smith, Morgan and Harris",EdTech,MC,2025-11-04,organic,Pro,1,True,True
+ACC1173,"Morris, Thompson and Mcgrath",EdTech,ZM,2025-11-06,ads,Basic,9,False,True
+ACC1174,"Christensen, Knapp and Ortiz",SaaS,BO,2025-03-11,event,Pro,2,False,True
+ACC1175,Williams-Miller,EdTech,TR,2024-07-08,ads,Enterprise,46,False,True
+ACC1176,Stokes-Brock,SaaS,AU,2025-07-02,organic,Basic,9,True,True
+ACC1177,Sims Ltd,FinTech,SR,2024-11-24,event,Enterprise,35,True,False
+ACC1178,Glover-Stephens,FinTech,HR,2026-02-21,ads,Pro,1,True,True
+ACC1179,"Mitchell, Rodriguez and Wong",DevTools,PE,2024-06-26,partner,Basic,41,False,True
+ACC1180,Gallegos and Sons,SaaS,CV,2026-04-25,partner,Pro,8,False,True
+ACC1181,Mcgee PLC,EdTech,NE,2024-06-06,event,Pro,6,False,False
+ACC1182,"Spears, Strong and Pierce",FinTech,NG,2025-03-15,event,Enterprise,9,False,True
+ACC1183,"Pena, Holland and Wong",DevTools,LU,2024-12-15,ads,Pro,43,True,False
+ACC1184,Goodman-Garcia,SaaS,OM,2026-03-23,ads,Basic,38,True,False
+ACC1185,Schmidt and Sons,SaaS,KZ,2025-10-08,event,Basic,45,True,False
+ACC1186,"Martinez, Espinoza and Andrews",DevTools,QA,2024-12-16,partner,Pro,4,True,False
+ACC1187,Blackburn Inc,SaaS,BB,2026-01-13,partner,Enterprise,45,True,True
+ACC1188,"Bender, Hobbs and Smith",SaaS,ML,2025-05-22,event,Enterprise,37,True,True
+ACC1189,Hunt-Landry,DevTools,NO,2024-12-01,organic,Enterprise,37,True,False
+ACC1190,Johnson-Pham,FinTech,SA,2026-04-20,organic,Basic,24,True,False
+ACC1191,Farley and Sons,SaaS,SI,2024-09-05,organic,Enterprise,19,False,True
+ACC1192,Gonzalez PLC,DevTools,ZW,2025-05-15,partner,Basic,36,False,False
+ACC1193,Santiago-Martinez,DevTools,VU,2025-07-22,organic,Basic,27,False,True
+ACC1194,Mills-Garrett,DevTools,DM,2024-06-10,event,Pro,20,False,True
+ACC1195,Baker-Marquez,SaaS,DE,2024-07-21,partner,Pro,8,False,False
+ACC1196,"Miller, Ford and Esparza",DevTools,GW,2026-01-16,partner,Basic,22,True,True
+ACC1197,"Coffey, Jones and Dean",SaaS,IR,2024-05-23,event,Basic,14,True,True
+ACC1198,"Ramirez, Richardson and Grant",FinTech,GD,2025-10-15,organic,Enterprise,3,False,True
+ACC1199,"Williams, Villegas and Adkins",FinTech,GH,2024-12-10,event,Pro,47,True,True
+ACC1200,Andrews and Sons,EdTech,FM,2025-02-12,organic,Enterprise,14,False,False
+ACC1201,"Horton, Berry and Nelson",EdTech,LK,2024-07-10,organic,Basic,34,False,False
+ACC1202,Price-Mcclain,DevTools,KG,2025-03-28,event,Enterprise,40,True,False
+ACC1203,"Barrett, Sparks and Galvan",SaaS,KG,2025-11-09,ads,Enterprise,10,True,True
+ACC1204,Powers Group,FinTech,AG,2025-07-20,partner,Pro,9,False,True
+ACC1205,Kim Inc,FinTech,MR,2026-02-08,ads,Pro,37,True,False
+ACC1206,"Hurley, Smith and Murphy",DevTools,MC,2024-09-19,ads,Basic,23,False,False
+ACC1207,Whitaker-Bates,SaaS,PY,2024-05-13,organic,Basic,6,True,False
+ACC1208,"Johnson, Holt and Lee",SaaS,SY,2024-12-04,event,Pro,18,False,True
+ACC1209,Howard PLC,SaaS,EG,2024-09-19,ads,Basic,39,True,False
+ACC1210,"Martin, Boyer and Roberts",EdTech,DZ,2024-09-17,partner,Enterprise,24,False,False
+ACC1211,"Thomas, Daniels and Curry",FinTech,UZ,2024-05-09,ads,Basic,49,False,True
+ACC1212,Bass LLC,FinTech,TJ,2024-05-27,ads,Basic,3,False,True
+ACC1213,"Andrade, Mooney and Moore",FinTech,IS,2024-06-29,organic,Pro,44,False,True
+ACC1214,"Howard, Oliver and Moreno",EdTech,IE,2025-07-25,ads,Enterprise,30,False,True
+ACC1215,"Kim, Hahn and Norris",EdTech,LK,2024-11-27,organic,Enterprise,19,False,False
+ACC1216,Price LLC,FinTech,VA,2025-03-18,event,Basic,36,False,True
+ACC1217,Johnson-Lawson,SaaS,BT,2025-05-31,event,Enterprise,12,True,True
+ACC1218,Munoz Inc,SaaS,GD,2025-05-29,ads,Basic,36,True,False
+ACC1219,"Petersen, James and Richardson",DevTools,LS,2026-02-13,partner,Basic,42,False,True
+ACC1220,Wells-Sanchez,SaaS,TW,2024-07-28,ads,Pro,17,True,False
+ACC1221,"Bowman, White and Blair",FinTech,AF,2025-07-16,organic,Basic,12,True,True
+ACC1222,"Roberson, Roberts and Navarro",SaaS,SI,2025-03-06,ads,Basic,26,False,False
+ACC1223,"Stewart, Reyes and Ritter",FinTech,BA,2026-03-04,partner,Pro,22,True,True
+ACC1224,Frazier Inc,FinTech,KM,2026-03-17,organic,Pro,2,True,True
+ACC1225,"Burns, Wright and Waller",FinTech,SI,2024-06-10,event,Basic,40,False,False
+ACC1226,"Gilmore, Hunt and Mckee",DevTools,AL,2026-01-17,partner,Enterprise,16,True,False
+ACC1227,Robinson-Stewart,SaaS,DM,2025-05-05,event,Pro,41,False,True
+ACC1228,"Werner, Bond and Smith",EdTech,ZM,2025-03-26,partner,Enterprise,34,True,True
+ACC1229,Collins and Sons,SaaS,LK,2026-02-27,partner,Enterprise,38,True,False
+ACC1230,Brown and Sons,SaaS,WS,2025-02-08,organic,Enterprise,15,False,False
+ACC1231,Tanner-Rice,EdTech,ML,2024-09-29,partner,Basic,43,False,False
+ACC1232,Castro Ltd,EdTech,AG,2024-05-23,partner,Enterprise,43,True,True
+ACC1233,Reynolds-Mosley,DevTools,TV,2025-10-13,partner,Basic,10,True,False
+ACC1234,"Lewis, Wall and Rodriguez",SaaS,JP,2025-05-13,organic,Basic,16,True,True
+ACC1235,Smith-Green,FinTech,MK,2025-03-25,ads,Enterprise,6,True,False
+ACC1236,Watts Ltd,FinTech,IT,2024-05-10,partner,Enterprise,45,False,True
+ACC1237,Thornton and Sons,FinTech,LY,2025-05-29,ads,Pro,48,True,True
+ACC1238,Webb Ltd,FinTech,ST,2024-10-30,ads,Enterprise,7,False,False
+ACC1239,Hammond Group,EdTech,BF,2024-05-07,partner,Enterprise,1,False,False
+ACC1240,Ramirez Group,DevTools,DE,2026-01-04,ads,Enterprise,39,False,False
+ACC1241,Buchanan Group,EdTech,VU,2025-05-26,ads,Basic,31,False,False
+ACC1242,"Hamilton, Price and Taylor",FinTech,LC,2024-07-26,partner,Enterprise,9,False,False
+ACC1243,Johnson Group,EdTech,GA,2025-10-22,partner,Pro,40,False,True
+ACC1244,Andrews Inc,DevTools,GH,2025-08-05,partner,Pro,28,True,False
+ACC1245,"Macdonald, Hansen and Mcmillan",DevTools,TR,2025-02-23,event,Basic,25,True,False
+ACC1246,Chavez LLC,EdTech,CA,2025-03-10,partner,Basic,10,True,True
+ACC1247,Young PLC,FinTech,AD,2024-10-14,ads,Basic,40,False,True
+ACC1248,"Rhodes, Anderson and Jensen",SaaS,SZ,2024-05-07,partner,Pro,30,False,False
+ACC1249,"Flores, Olsen and Martinez",SaaS,DE,2025-07-09,ads,Enterprise,14,True,True
+ACC1250,Brooks Group,SaaS,ES,2025-11-21,organic,Basic,15,True,False
+ACC1251,"Travis, Brown and Cooper",SaaS,TW,2026-03-25,ads,Basic,45,False,True
+ACC1252,"Brennan, Sanders and Blair",FinTech,RS,2025-05-26,partner,Basic,35,False,False
+ACC1253,"Thompson, Thompson and Roberts",EdTech,SI,2024-09-14,partner,Basic,47,False,False
+ACC1254,Reed-Griffin,SaaS,BJ,2025-12-16,ads,Basic,17,True,False
+ACC1255,Smith Ltd,FinTech,PH,2026-03-17,ads,Enterprise,30,True,False
+ACC1256,Edwards Inc,DevTools,SB,2026-01-14,ads,Enterprise,43,False,True
+ACC1257,"King, Koch and Berry",EdTech,ME,2025-04-09,organic,Enterprise,35,False,True
+ACC1258,"Stewart, Diaz and Crawford",DevTools,CR,2024-08-14,ads,Pro,34,True,True
+ACC1259,Tyler LLC,FinTech,TG,2025-02-26,ads,Basic,34,True,True
+ACC1260,Thompson Group,DevTools,KG,2026-03-20,event,Pro,47,True,False
+ACC1261,Williams-Ford,DevTools,UY,2025-11-19,ads,Enterprise,20,True,True
+ACC1262,White-Cooper,EdTech,AF,2025-05-18,partner,Enterprise,46,True,True
+ACC1263,Robinson-Barron,SaaS,DJ,2024-08-04,ads,Basic,50,False,True
+ACC1264,Stephens LLC,EdTech,GE,2026-03-06,ads,Pro,19,False,False
+ACC1265,Dunlap Ltd,EdTech,AG,2026-04-11,ads,Enterprise,47,False,True
+ACC1266,Wilkinson PLC,DevTools,PS,2026-04-15,ads,Basic,6,False,True
+ACC1267,Hays-Beard,DevTools,PW,2025-06-11,partner,Pro,39,False,False
+ACC1268,"Hill, Hamilton and Horton",SaaS,FJ,2025-08-19,partner,Pro,41,True,True
+ACC1269,Brown PLC,DevTools,TD,2026-04-27,ads,Basic,15,False,True
+ACC1270,"Barker, Silva and Weiss",EdTech,KH,2026-01-15,organic,Enterprise,8,True,True
+ACC1271,Snow and Sons,EdTech,SV,2026-01-17,partner,Basic,29,False,False
+ACC1272,"Hickman, Hopkins and Stone",SaaS,SO,2025-01-31,ads,Pro,23,True,True
+ACC1273,"Lloyd, Davis and Thompson",FinTech,SO,2024-06-28,partner,Enterprise,4,False,False
+ACC1274,Tucker-Chavez,FinTech,KI,2025-04-21,partner,Pro,30,False,False
+ACC1275,Shelton PLC,SaaS,TT,2025-08-09,organic,Basic,21,True,False
+ACC1276,Mccormick-Brown,EdTech,IN,2024-08-17,partner,Pro,38,False,True
+ACC1277,Nguyen and Sons,DevTools,RW,2026-04-15,ads,Basic,12,True,True
+ACC1278,"Kim, Morgan and Mcdowell",FinTech,SG,2026-01-05,partner,Pro,39,True,True
+ACC1279,"Lowe, Anderson and Guerra",DevTools,TH,2025-12-08,event,Basic,4,False,True
+ACC1280,"Soto, Mercer and Carter",DevTools,AR,2025-01-19,organic,Basic,19,False,False
+ACC1281,Lee Ltd,EdTech,NP,2026-01-22,organic,Enterprise,47,True,False
+ACC1282,"Boyd, Duran and Murphy",DevTools,BR,2025-11-13,event,Basic,8,False,True
+ACC1283,"Smith, Hicks and Soto",EdTech,SM,2025-05-31,event,Basic,15,False,True
+ACC1284,"Vargas, Simpson and Austin",EdTech,DZ,2025-01-03,partner,Enterprise,34,False,False
+ACC1285,Myers-Bennett,EdTech,SO,2024-07-05,organic,Basic,22,True,False
+ACC1286,"Kaufman, Jones and Hart",EdTech,FM,2025-06-08,ads,Enterprise,26,True,False
+ACC1287,Swanson Inc,SaaS,SE,2025-07-23,event,Pro,23,True,False
+ACC1288,Fields-Farley,SaaS,GE,2025-11-09,ads,Basic,9,False,True
+ACC1289,Johnson-Duncan,FinTech,PE,2024-07-25,event,Basic,41,False,False
+ACC1290,Terrell PLC,FinTech,NP,2024-06-08,event,Basic,50,False,True
+ACC1291,Brown and Sons,FinTech,LA,2024-10-30,event,Basic,18,False,True
+ACC1292,Jones Ltd,EdTech,CV,2026-04-19,organic,Pro,17,True,False
+ACC1293,"Taylor, Barnett and Grimes",DevTools,CN,2025-10-01,partner,Basic,45,False,True
+ACC1294,"Rose, Garcia and Hill",DevTools,NI,2025-05-09,partner,Enterprise,31,True,False
+ACC1295,Garcia LLC,FinTech,SB,2025-09-03,organic,Basic,8,True,False
+ACC1296,"Johnson, Crawford and Key",FinTech,PS,2024-08-15,partner,Basic,16,True,False
+ACC1297,Lopez-Shaw,FinTech,GT,2025-10-01,event,Enterprise,26,True,True
+ACC1298,"Freeman, Johnson and Gutierrez",SaaS,AF,2025-03-11,partner,Pro,35,True,True
+ACC1299,Smith-Williams,DevTools,MU,2025-04-04,ads,Enterprise,1,False,False
+ACC1300,Brown Ltd,SaaS,LA,2024-07-21,partner,Pro,26,False,True
+ACC1301,"Kramer, Sparks and Morton",SaaS,LU,2025-11-23,partner,Enterprise,46,True,False
+ACC1302,"Graham, Rodriguez and Smith",FinTech,NG,2025-07-08,partner,Pro,8,False,False
+ACC1303,"Smith, Scott and Jones",FinTech,IQ,2024-11-11,partner,Enterprise,22,True,False
+ACC1304,Kerr PLC,FinTech,AO,2025-03-06,organic,Enterprise,43,False,True
+ACC1305,"Jones, Haley and Crawford",EdTech,GN,2024-05-07,partner,Enterprise,41,True,False
+ACC1306,"Harris, Cook and Levy",DevTools,BI,2025-01-15,organic,Enterprise,5,False,False
+ACC1307,Scott Group,EdTech,AO,2025-07-25,organic,Basic,43,True,False
+ACC1308,"Evans, Townsend and Nguyen",FinTech,PG,2025-04-09,event,Enterprise,5,False,False
+ACC1309,"Parks, May and Dixon",SaaS,IS,2025-12-07,event,Basic,17,True,False
+ACC1310,Cooley Inc,DevTools,SG,2025-11-15,partner,Enterprise,38,True,False
+ACC1311,Blake Inc,FinTech,CZ,2026-03-29,partner,Pro,8,True,False
+ACC1312,Smith-Lang,EdTech,OM,2024-10-20,organic,Pro,50,False,False
+ACC1313,"Washington, White and Williams",FinTech,FM,2024-05-12,event,Pro,44,True,False
+ACC1314,"Jenkins, Gonzales and Gates",SaaS,CN,2024-11-29,ads,Enterprise,27,False,True
+ACC1315,Turner-Carr,EdTech,NL,2024-09-28,ads,Pro,49,True,False
+ACC1316,Jordan LLC,DevTools,MN,2025-12-26,organic,Basic,49,True,False
+ACC1317,George-Hensley,SaaS,IL,2025-02-21,ads,Basic,16,True,False
+ACC1318,Ross-Williams,SaaS,TN,2024-12-19,event,Enterprise,23,False,False
+ACC1319,Ramsey-Baxter,FinTech,IQ,2025-06-17,event,Enterprise,27,False,False
+ACC1320,"Robinson, Gregory and Velez",EdTech,SD,2025-12-05,partner,Pro,49,False,True
+ACC1321,Hayes-Evans,EdTech,CY,2024-07-03,event,Pro,4,True,False
+ACC1322,"Young, Powell and Gray",DevTools,KG,2024-11-28,organic,Pro,36,True,True
+ACC1323,"Garza, Moran and Armstrong",FinTech,GA,2026-03-26,ads,Pro,32,False,False
+ACC1324,"Mcdowell, Ryan and Cox",FinTech,PY,2026-03-15,organic,Enterprise,32,False,False
+ACC1325,Ramsey-Wright,SaaS,GB,2024-06-03,partner,Enterprise,3,False,False
+ACC1326,"Mckinney, Williams and Huber",DevTools,ES,2026-01-29,event,Pro,13,False,False
+ACC1327,"Brooks, Long and Hunter",DevTools,RS,2025-11-30,event,Enterprise,36,True,True
+ACC1328,Garcia Group,FinTech,BY,2025-03-04,event,Enterprise,50,True,False
+ACC1329,"Levy, Parks and Mckinney",DevTools,BO,2024-11-03,organic,Enterprise,24,False,False
+ACC1330,Young-Sims,EdTech,KW,2025-09-22,organic,Basic,5,True,True
+ACC1331,Beltran-Reed,FinTech,BN,2025-06-01,ads,Enterprise,27,False,False
+ACC1332,Wells Group,SaaS,CD,2025-07-17,partner,Enterprise,33,True,True
+ACC1333,Mckinney-Jackson,SaaS,SM,2024-06-10,event,Enterprise,11,True,False
+ACC1334,Moore-Carter,EdTech,MX,2025-10-06,organic,Basic,32,True,True
+ACC1335,Klein Inc,SaaS,BE,2024-12-04,partner,Enterprise,32,False,True
+ACC1336,Richard Inc,FinTech,JO,2026-01-22,ads,Enterprise,32,False,False
+ACC1337,"Garrett, Orr and Rose",FinTech,AU,2025-01-16,event,Enterprise,27,False,False
+ACC1338,Castillo Group,FinTech,NZ,2025-09-10,ads,Enterprise,4,False,True
+ACC1339,Nguyen LLC,EdTech,SE,2025-06-20,event,Enterprise,47,True,False
+ACC1340,Knapp-Fitzpatrick,EdTech,YE,2025-12-06,ads,Pro,33,False,True
+ACC1341,"Harrington, Price and Chambers",EdTech,DM,2025-06-24,organic,Basic,44,False,False
+ACC1342,Hodges-Williams,FinTech,AO,2025-01-18,event,Pro,27,True,True
+ACC1343,"Bailey, Brown and Simpson",DevTools,UA,2024-09-17,organic,Basic,22,True,False
+ACC1344,Contreras PLC,FinTech,TR,2025-01-10,partner,Pro,38,False,True
+ACC1345,Mcpherson-Lynch,SaaS,CA,2025-07-24,ads,Enterprise,24,False,False
+ACC1346,Gordon-Sanchez,EdTech,SR,2024-11-20,partner,Enterprise,36,True,False
+ACC1347,Wheeler Inc,DevTools,SA,2025-05-04,ads,Basic,47,False,True
+ACC1348,"Lowe, Flores and Jacobs",SaaS,ML,2024-12-04,organic,Enterprise,43,False,True
+ACC1349,"Tyler, Mack and Pugh",FinTech,EC,2024-10-23,ads,Pro,14,True,True
+ACC1350,Barnes Ltd,DevTools,KE,2026-01-18,ads,Basic,33,True,False
+ACC1351,Terry and Sons,SaaS,AR,2025-07-10,ads,Enterprise,8,False,True
+ACC1352,York-Rodriguez,DevTools,ER,2025-01-01,organic,Basic,12,False,True
+ACC1353,"Wilson, Ward and Mercado",DevTools,LS,2025-04-20,ads,Pro,24,False,False
+ACC1354,Carlson LLC,FinTech,SK,2024-12-07,event,Enterprise,37,True,True
+ACC1355,"Bowman, White and Olson",EdTech,ME,2024-06-03,organic,Enterprise,19,True,True
+ACC1356,Black and Sons,SaaS,TN,2025-08-27,event,Pro,5,False,False
+ACC1357,Cortez Ltd,SaaS,PK,2025-11-28,event,Basic,6,False,True
+ACC1358,Huffman and Sons,EdTech,JM,2025-06-19,ads,Pro,8,True,False
+ACC1359,"White, Shepherd and Garza",EdTech,LC,2024-07-07,organic,Pro,42,True,True
+ACC1360,Chen Group,EdTech,MX,2025-12-21,event,Basic,32,True,False
+ACC1361,Garcia-Powell,FinTech,TV,2024-09-30,ads,Enterprise,25,True,False
+ACC1362,"David, Howard and Johnson",DevTools,CD,2025-01-06,organic,Pro,16,False,True
+ACC1363,Noble-Harmon,DevTools,CL,2026-02-08,ads,Pro,15,True,False
+ACC1364,"Williams, Koch and Estrada",EdTech,NL,2025-08-04,event,Pro,48,False,False
+ACC1365,Rojas-Stone,SaaS,NO,2024-09-17,organic,Pro,19,True,False
+ACC1366,Caldwell-Peck,SaaS,NG,2024-09-08,event,Basic,31,False,False
+ACC1367,"Smith, Meza and King",FinTech,MR,2025-12-06,ads,Basic,16,False,True
+ACC1368,"Castillo, Walker and Butler",SaaS,CM,2025-10-02,ads,Basic,23,True,True
+ACC1369,Henson-Ferguson,FinTech,US,2025-11-22,event,Basic,19,True,True
+ACC1370,"Smith, Martinez and Harris",SaaS,PH,2025-03-12,event,Pro,45,True,True
+ACC1371,Rocha-Martinez,EdTech,TW,2025-01-09,partner,Basic,50,True,True
+ACC1372,Graves and Sons,DevTools,MT,2025-03-22,organic,Basic,28,True,True
+ACC1373,Alexander and Sons,DevTools,AF,2025-09-25,event,Enterprise,23,False,True
+ACC1374,"Bullock, Herrera and Young",EdTech,MT,2026-01-14,event,Enterprise,29,False,False
+ACC1375,Ball-Snyder,DevTools,PA,2024-08-25,ads,Basic,13,False,True
+ACC1376,Bowers PLC,DevTools,MN,2024-09-18,partner,Basic,1,False,True
+ACC1377,Hoover LLC,DevTools,AT,2024-11-25,ads,Pro,3,False,False
+ACC1378,Lawrence-Lopez,EdTech,BH,2024-11-29,ads,Enterprise,31,False,True
+ACC1379,"Grant, Shepherd and Petty",EdTech,MK,2025-12-18,organic,Basic,49,True,True
+ACC1380,Riddle-Lee,SaaS,RS,2025-12-18,event,Enterprise,25,True,False
+ACC1381,"Bennett, Walker and Compton",EdTech,DO,2024-07-06,ads,Pro,30,False,False
+ACC1382,Duke Group,DevTools,SM,2026-01-14,event,Basic,41,False,False
+ACC1383,"Flores, Turner and Mcguire",EdTech,GW,2025-02-13,organic,Basic,48,True,False
+ACC1384,Hood Ltd,DevTools,GQ,2026-03-26,organic,Basic,31,True,False
+ACC1385,"Dyer, Carroll and Taylor",DevTools,MU,2025-12-13,ads,Pro,35,True,True
+ACC1386,Herring Ltd,FinTech,SR,2025-10-21,partner,Pro,47,False,False
+ACC1387,Mccann PLC,EdTech,ES,2026-02-12,event,Pro,14,True,True
+ACC1388,Arellano PLC,EdTech,TN,2026-04-09,organic,Basic,34,False,False
+ACC1389,"Brady, Berry and Henderson",SaaS,TR,2025-12-28,event,Pro,33,True,True
+ACC1390,Castillo-Williams,SaaS,LY,2024-10-03,organic,Enterprise,20,True,True
+ACC1391,Peterson Ltd,SaaS,DJ,2026-01-12,organic,Enterprise,29,False,True
+ACC1392,Rowe LLC,FinTech,MC,2024-11-18,event,Basic,28,True,False
+ACC1393,Henson-Williamson,FinTech,SD,2024-10-31,event,Basic,30,False,False
+ACC1394,Green PLC,SaaS,GM,2025-03-21,ads,Basic,6,True,True
+ACC1395,Nelson-Franklin,DevTools,SE,2025-02-03,event,Pro,44,False,True
+ACC1396,Shaw-Hobbs,EdTech,PG,2025-01-28,ads,Basic,50,False,True
+ACC1397,Rose PLC,EdTech,PS,2025-04-16,ads,Basic,38,False,True
+ACC1398,Young Inc,DevTools,BY,2026-03-17,organic,Enterprise,43,False,False
+ACC1399,Dennis LLC,EdTech,CR,2025-07-15,event,Basic,36,False,False
+ACC1400,Gross Group,FinTech,ID,2025-06-10,partner,Pro,21,False,True
+ACC1401,"Parker, Cole and Gallagher",SaaS,SK,2024-11-16,event,Pro,29,False,True
+ACC1402,Taylor-Burns,EdTech,SY,2026-02-27,organic,Pro,6,True,False
+ACC1403,Horton PLC,FinTech,TT,2025-03-16,partner,Pro,48,False,True
+ACC1404,Cox-Ballard,SaaS,KM,2025-10-03,ads,Pro,1,False,False
+ACC1405,Vance Ltd,DevTools,CH,2025-02-06,partner,Basic,18,False,False
+ACC1406,"Holt, Patterson and Malone",FinTech,NP,2024-09-19,event,Basic,31,False,False
+ACC1407,James Group,DevTools,TW,2025-12-21,event,Basic,6,False,True
+ACC1408,Jackson-Allen,FinTech,NO,2025-10-08,ads,Pro,43,False,False
+ACC1409,"Romero, May and Moran",DevTools,LR,2025-03-04,organic,Pro,41,True,False
+ACC1410,Gardner PLC,EdTech,DM,2026-03-26,organic,Pro,33,True,False
+ACC1411,Gilbert PLC,SaaS,ME,2026-01-10,organic,Basic,28,True,True
+ACC1412,"Mccoy, Foster and Alexander",FinTech,KN,2025-06-22,partner,Pro,20,False,False
+ACC1413,"Sanchez, Jenkins and Clark",FinTech,ER,2025-06-27,partner,Enterprise,8,True,True
+ACC1414,Wallace and Sons,SaaS,PE,2025-02-11,organic,Pro,14,False,True
+ACC1415,Foster Inc,EdTech,JP,2024-06-12,event,Pro,14,False,False
+ACC1416,Hale-Cole,EdTech,DZ,2024-12-18,partner,Enterprise,31,True,False
+ACC1417,Acosta PLC,DevTools,IE,2025-09-15,ads,Pro,26,True,True
+ACC1418,"Mcclure, Hartman and Martin",EdTech,SY,2026-01-05,event,Pro,48,False,False
+ACC1419,Morrow-Robbins,FinTech,MX,2026-01-01,partner,Enterprise,14,True,True
+ACC1420,Martinez-Gonzalez,FinTech,MC,2025-06-30,ads,Enterprise,3,False,True
+ACC1421,Miller-Christensen,SaaS,IE,2025-04-26,organic,Basic,11,True,True
+ACC1422,"Webb, Brown and Valdez",EdTech,ZM,2025-10-06,ads,Basic,50,True,True
+ACC1423,Bowen and Sons,EdTech,GT,2025-05-30,event,Enterprise,35,True,True
+ACC1424,Carrillo LLC,DevTools,ID,2025-07-30,partner,Enterprise,39,False,True
+ACC1425,Perez Ltd,SaaS,GQ,2024-08-12,ads,Enterprise,36,False,False
+ACC1426,Mitchell-Gonzalez,EdTech,SR,2025-09-30,event,Basic,25,True,False
+ACC1427,"Herring, Ellis and Arias",DevTools,AT,2024-06-01,partner,Enterprise,47,False,False
+ACC1428,Roberson-Burke,EdTech,BO,2025-02-18,partner,Pro,33,True,False
+ACC1429,Torres and Sons,FinTech,MW,2025-07-07,organic,Enterprise,50,True,True
+ACC1430,Morgan LLC,DevTools,MG,2025-08-23,organic,Basic,20,True,False
+ACC1431,"Clark, Murphy and Gibson",EdTech,LU,2024-11-11,event,Enterprise,18,False,False
+ACC1432,"Freeman, Walker and Guzman",EdTech,CO,2026-03-22,organic,Pro,24,False,False
+ACC1433,Craig-Pearson,DevTools,VE,2024-07-09,event,Basic,20,False,True
+ACC1434,"Miller, Greene and Ortiz",FinTech,DJ,2025-05-03,partner,Enterprise,12,True,True
+ACC1435,Scott-Best,FinTech,QA,2025-08-17,event,Pro,42,False,True
+ACC1436,"Powell, Simmons and Cooper",DevTools,KN,2025-09-30,ads,Enterprise,2,True,False
+ACC1437,Mcgee Group,EdTech,VA,2024-08-27,organic,Pro,46,False,False
+ACC1438,Oconnor and Sons,SaaS,MM,2024-05-18,partner,Enterprise,2,False,True
+ACC1439,"Contreras, Mason and Barber",FinTech,SI,2025-04-18,partner,Basic,10,False,True
+ACC1440,Hall and Sons,EdTech,KG,2025-04-07,organic,Pro,13,True,False
+ACC1441,Macias-Strong,FinTech,CZ,2024-05-26,organic,Basic,31,False,True
+ACC1442,Gutierrez Group,DevTools,CU,2024-12-11,ads,Basic,45,True,True
+ACC1443,Evans and Sons,EdTech,MV,2024-09-10,organic,Enterprise,43,False,True
+ACC1444,Pugh LLC,DevTools,SC,2026-03-28,ads,Pro,31,False,False
+ACC1445,"Brown, Knight and Grimes",DevTools,KR,2024-11-04,ads,Pro,5,True,True
+ACC1446,White Inc,EdTech,UZ,2025-06-03,partner,Basic,44,True,True
+ACC1447,Myers-Morse,EdTech,TJ,2024-07-26,organic,Basic,41,False,True
+ACC1448,Blanchard Group,EdTech,CG,2025-11-30,organic,Enterprise,32,False,False
+ACC1449,Johnson-Rodriguez,SaaS,KZ,2024-12-28,ads,Pro,14,True,False
+ACC1450,Cole Group,SaaS,PG,2026-04-06,organic,Enterprise,4,True,True
+ACC1451,Gill-Tanner,EdTech,BZ,2024-08-18,partner,Enterprise,3,True,False
+ACC1452,Harris Group,SaaS,LB,2025-02-21,ads,Pro,18,False,False
+ACC1453,Wheeler PLC,EdTech,NI,2026-02-19,event,Enterprise,47,False,True
+ACC1454,Quinn Group,DevTools,VC,2025-11-07,ads,Pro,17,True,False
+ACC1455,Mcgee-Johnson,EdTech,LT,2024-10-02,event,Enterprise,30,True,False
+ACC1456,Thomas LLC,SaaS,FR,2025-03-27,partner,Pro,41,False,False
+ACC1457,"Smith, Wells and Wilson",EdTech,BH,2024-10-14,ads,Pro,19,False,True
+ACC1458,"Kim, Turner and Smith",EdTech,AU,2025-05-12,ads,Basic,37,False,True
+ACC1459,"Rich, Newman and Levine",FinTech,AG,2024-12-01,event,Enterprise,40,False,True
+ACC1460,Briggs PLC,EdTech,JM,2025-07-17,ads,Basic,9,False,False
+ACC1461,Rich PLC,SaaS,MG,2024-07-14,ads,Pro,5,True,False
+ACC1462,Campbell Inc,EdTech,BE,2024-08-21,ads,Pro,39,True,False
+ACC1463,Johnson Ltd,EdTech,ID,2025-03-07,ads,Enterprise,32,True,False
+ACC1464,"Montes, Jennings and Lopez",FinTech,VC,2026-04-05,ads,Basic,28,False,True
+ACC1465,Reed Ltd,EdTech,MZ,2025-12-02,event,Enterprise,46,False,True
+ACC1466,Ford and Sons,SaaS,BT,2024-09-08,organic,Enterprise,37,False,True
+ACC1467,Moore-Peck,DevTools,ZA,2025-08-21,partner,Pro,7,True,False
+ACC1468,Norman and Sons,SaaS,KE,2024-10-21,ads,Enterprise,14,False,False
+ACC1469,"Duke, Lopez and Stevens",DevTools,MX,2026-05-04,event,Basic,9,True,False
+ACC1470,Cannon-Morris,SaaS,TO,2025-01-03,organic,Basic,23,False,True
+ACC1471,Thompson PLC,SaaS,KH,2025-05-15,ads,Enterprise,30,False,False
+ACC1472,"Torres, Bradley and Howell",DevTools,CU,2024-10-16,event,Basic,24,True,True
+ACC1473,Johnson-Riley,EdTech,ML,2025-08-02,organic,Enterprise,17,True,False
+ACC1474,Holloway-Crawford,DevTools,PW,2026-02-04,ads,Basic,32,False,True
+ACC1475,Horn and Sons,EdTech,US,2025-07-27,event,Enterprise,33,False,True
+ACC1476,Boyd-Parker,DevTools,BI,2024-05-22,event,Enterprise,3,True,False
+ACC1477,Diaz-Perry,FinTech,KI,2026-01-18,event,Enterprise,18,False,True
+ACC1478,Reyes Group,SaaS,PY,2025-09-17,organic,Pro,34,True,True
+ACC1479,"Jackson, Jones and Robinson",EdTech,TV,2025-08-07,event,Basic,11,False,False
+ACC1480,"Lopez, Howard and Miller",SaaS,MR,2024-06-18,event,Enterprise,21,True,False
+ACC1481,Farmer-Leach,SaaS,GH,2026-01-29,event,Enterprise,49,True,True
+ACC1482,Tyler-Miles,EdTech,BJ,2025-04-28,organic,Enterprise,22,False,True
+ACC1483,Newman PLC,DevTools,CL,2025-03-20,event,Enterprise,11,False,False
+ACC1484,"Harper, Jackson and Ware",SaaS,LC,2026-04-24,ads,Pro,10,False,False
+ACC1485,"Wilson, Bailey and Alvarez",DevTools,KW,2024-10-29,organic,Pro,39,False,True
+ACC1486,"Cooper, Fuller and Williams",EdTech,AZ,2025-12-16,partner,Pro,46,False,True
+ACC1487,Scott-Leon,SaaS,KP,2025-01-10,event,Basic,16,False,False
+ACC1488,Conrad Group,FinTech,GT,2025-09-19,ads,Basic,25,True,True
+ACC1489,"Olsen, Cooper and Walter",EdTech,TN,2024-05-21,ads,Basic,37,True,False
+ACC1490,Martin PLC,SaaS,FR,2025-03-30,event,Pro,42,False,False
+ACC1491,Morales-Wang,FinTech,DZ,2026-03-26,event,Basic,13,False,False
+ACC1492,Santiago Ltd,EdTech,BA,2024-11-05,ads,Pro,33,True,False
+ACC1493,Myers-Aguilar,SaaS,MZ,2024-07-16,partner,Pro,47,False,False
+ACC1494,Blair-Gray,SaaS,CL,2024-10-18,partner,Basic,38,True,True
+ACC1495,Burns-Reynolds,SaaS,CV,2025-08-26,organic,Pro,7,False,True
+ACC1496,"Parker, Armstrong and Nguyen",EdTech,PY,2024-05-22,organic,Enterprise,9,True,False
+ACC1497,Myers Inc,FinTech,LY,2025-11-20,organic,Pro,14,False,False
+ACC1498,Tucker-Chase,FinTech,TW,2026-04-22,organic,Pro,34,True,True
+ACC1499,Smith-Rodriguez,SaaS,MK,2024-06-23,organic,Basic,45,True,True
